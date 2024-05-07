@@ -11,7 +11,6 @@ Vamos deixar abaixo uma demonstração do projeto que marcou nosso aprendizado.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -24,6 +23,10 @@ Vamos deixar abaixo uma demonstração do projeto que marcou nosso aprendizado.
 
 <h2>Tela para buscar música</h2>
 <img src="https://github.com/Estev0o/Player-Music/blob/main/prints/busca-musica.png" alt="Tela para buscar música">
+
+<h2>Vídeo</h2>
+
+https://github.com/Estev0o/Player-Music/assets/121408310/eaad3ad4-5f04-4b50-8764-fab2e06bd27b
 
 <h1>Autores</h1>
 <div class="text-center">
