@@ -20,10 +20,10 @@ Vamos deixar abaixo uma demonstração do projeto que marcou nosso aprendizado.
 <p> ✅  Finalizado 🏅 </p></h2>
 
 <h2>Tela principal</h2>
-<img src="" alt="Tela principal">
+<img src="https://github.com/Estev0o/Player-Music/blob/main/prints/tela-principal.png" alt="Tela principal">
 
 <h2>Tela para buscar música</h2>
-<img src="" alt="Tela para buscar música">
+<img src="https://github.com/Estev0o/Player-Music/blob/main/prints/busca-musica.png" alt="Tela para buscar música">
 
 <h1>Autores</h1>
 <div class="text-center">
